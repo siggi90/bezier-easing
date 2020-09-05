@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 
 using Xamarin.Forms;
 using System.Collections.Generic;
 
-namespace AppStat {
+namespace CubicBezierEasings {
     public class easings {
         public Easing teal;
 
